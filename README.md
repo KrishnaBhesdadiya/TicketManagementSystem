@@ -77,5 +77,5 @@ The system supports:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/KrishnaBhesdadiya/TicketManagementSystem.git
+cd TicketManagementSystem
